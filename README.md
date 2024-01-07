@@ -7,4 +7,4 @@
 | 02  | Progress Steps  | [Live Link](https://50projects-prograss-steps.netlify.app/) |
 | 03  | Rotating Nav Animation | [Live Link](https://50project-rotating-navbar.netlify.app/) |
 | 04  | Hidden Search Widget | [Live Link](https://50project-hidden-search.netlify.app/) |
-| 05  | Blurry Loading | [Live Link]() |
+| 05  | Blurry Loading | [Live Link](https://50project-blurry-loading-backgraound.netlify.app/) |

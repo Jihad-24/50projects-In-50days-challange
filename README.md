@@ -9,3 +9,4 @@
 | 04  | Hidden Search Widget | [Live Link](https://50project-hidden-search.netlify.app/) |
 | 05  | Blurry Loading | [Live Link](https://50project-blurry-loading-backgraound.netlify.app/) |
 | 06  | Scroll Animation | [Live Link](https://50project-animation-scroll.netlify.app/) |
+| 07  | Split Landing Page | [Live Link](https://50project-split-page-landing.netlify.app/) |

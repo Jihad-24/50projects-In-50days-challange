@@ -11,3 +11,4 @@
 | 06  | Scroll Animation | [Live Link](https://50project-animation-scroll.netlify.app/) |
 | 07  | Split Landing Page | [Live Link](https://50project-split-page-landing.netlify.app/) |
 | 08  | Form Input Wave | [Live Link](https://50project-form-input-wave.netlify.app/) |
+| 09  | Sound Board | [Live Link](https://50project-sound-track.netlify.app/) |

@@ -14,3 +14,4 @@
 | 09  | Sound Board | [Live Link](https://50project-sound-track.netlify.app/) |
 | 10  | Dad Jokes | [Live Link](https://50project-dad-jokes.netlify.app/) |
 | 11  | Event Keycodes | [Live Link](https://50project-event-kaycodes.netlify.app/) |
+| 12  | Faq Collapse | [Live Link](https://50project-faq-collapse.netlify.app/) |

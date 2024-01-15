@@ -13,4 +13,4 @@
 | 08  | Form Input Wave | [Live Link](https://50project-form-input-wave.netlify.app/) |
 | 09  | Sound Board | [Live Link](https://50project-sound-track.netlify.app/) |
 | 10  | Dad Jokes | [Live Link](https://50project-dad-jokes.netlify.app/) |
-| 11  | Dad Jokes | [Live Link](https://50project-event-kaycodes.netlify.app/) |
+| 11  | Event Keycodes | [Live Link](https://50project-event-kaycodes.netlify.app/) |

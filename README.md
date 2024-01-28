@@ -20,3 +20,4 @@
 | 15  | Incrementing Counter | [Live Link](https://50project-increment-counter.netlify.app/) |
 | 16  | Drink Water | [Live Link](https://50project-drink-water-track.netlify.app/) |
 | 17  | Movie App | [Live Link](https://50-project-movie-app.netlify.app/) |
+| 18  | Background Slider | [Live Link](https://50project-slider-background.netlify.app/) |

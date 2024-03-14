@@ -26,3 +26,4 @@
 | 21  | Drag N Drop | [Live Link](https://50project-drag-n-drop.netlify.app/) |
 | 22  | Drawing App | [Live Link](https://50project-drawing-app-jihad.netlify.app/) |
 | 23  | Kinetic Loader | [Live Link](https://50project-kinetic-loader-jihad.netlify.app/) |
+| 23  | Content Placeholder | [Live Link](https://50project-content-placeholder-jihad.netlify.app/) |

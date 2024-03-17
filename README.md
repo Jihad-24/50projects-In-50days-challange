@@ -28,3 +28,4 @@
 | 23  | Kinetic Loader | [Live Link](https://50project-kinetic-loader-jihad.netlify.app/) |
 | 23  | Content Placeholder | [Live Link](https://50project-content-placeholder-jihad.netlify.app/) |
 | 24  | Sticky Navbar | [Live Link](https://50project-sticky-navigation.netlify.app/) |
+| 25  | Double Vertical Slider | [Live Link](https://50project-double-vertial-slider.netlify.app/) |
